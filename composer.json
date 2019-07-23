@@ -5,5 +5,10 @@
         "easyswoole/utility": "^1.1",
     		
         "easyswoole/mysqli": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
     }
 }
