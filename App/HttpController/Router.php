@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\httpController;
+namespace App\HttpController;
 
 use EasySwoole\Http\AbstractInterface\AbstractRouter;
 use FastRoute\RouteCollector;

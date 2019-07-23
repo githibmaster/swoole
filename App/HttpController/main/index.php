@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\httpController\main;
+namespace App\HttpController\main;
 
 use EasySwoole\Http\AbstractInterface\Controller;
 use EasySwoole\Mysqli\Config;
